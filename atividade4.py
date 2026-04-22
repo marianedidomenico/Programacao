@@ -1,0 +1,4 @@
+nome=input("Escreva o seu nome: ")
+idade=float(input("Insira a sua idade: "))
+dias = idade*365
+print(f"{nome} viveu {dias} dias.")
