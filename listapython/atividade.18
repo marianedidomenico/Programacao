@@ -1,0 +1,8 @@
+ hrs = int(input("Insira a quantidade de horas trabalhadas: "))
+hrse = int(input("Insira a quantidade de horas extras trabalhadas: "))
+salariob = (hrs * 10) + (hrse*15)
+
+salariol = salariob - (salariob*10)
+
+print ("Seu salário bruto ",salariob)
+print ("Seu salário liquido ",salariol )

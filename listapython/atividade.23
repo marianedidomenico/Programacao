@@ -1,0 +1,7 @@
+altura_pessoa = float (input("Digite a sua altura: "))
+sombra_pessoa = float (input("Digite o comprimento da sua sombra: "))
+sombra_predio = float (input("Digite o comprimento da sombra do prédio: "))
+
+altura_pessoa = (altura_pessoa / sombra_pessoa) * sombra_predio
+
+print ("A altura do predio é " ,altura_pessoa)

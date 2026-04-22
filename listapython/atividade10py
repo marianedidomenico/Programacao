@@ -1,0 +1,9 @@
+10-pontox1= float (input("Insira o ponto x1"))
+pontoy1 = float(input("Insira o ponto y1"))
+
+pontox2= float (input("Insira o ponto x2"))
+pontoy2 = float(input("Insira o ponto y2"))
+
+distancia = ((pontox1 - pontox2)**2 + (pontoy1- pontoy2)**2)**0.5
+
+print("A distancia entre eles é de:" ,distancia)
