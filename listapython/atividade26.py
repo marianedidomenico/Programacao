@@ -1,3 +1,5 @@
+## três números, calcule e mostre a multiplicação desses números.
+
 numero1 - float(input("numero1"))
 numero2 - float(input("numero2"))
 numero3 - float(input("numero3"))

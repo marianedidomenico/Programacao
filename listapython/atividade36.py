@@ -1,0 +1,8 @@
+##Faça um algoritmo que calcule e mostre a área de um losango.
+
+d_maior = float(input("Diagonal maior: "))
+d_menor = float(input("Diagonal menor: "))
+
+area = (d_maior * d_menor) / 2
+
+print(f"A área do losango é: {area}")

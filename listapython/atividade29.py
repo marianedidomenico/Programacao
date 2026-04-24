@@ -1,3 +1,5 @@
+##preço de um produto,mostre o novo preço c desconto de 10%.
+
 preco = float(input("Digite o preço do produto: R$ "))
 desconto = preco * 0.10
 novo_preco = preco - desconto

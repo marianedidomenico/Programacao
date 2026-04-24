@@ -1,3 +1,5 @@
+##Um algoritmo que calcule dois cenários baseados no peso atual de uma pessoa:
+
 peso = float(input("Digite o peso da pessoa: "))
 novo_peso_engordar = peso + (peso * 0.15)
 novo_peso_emagrecer = peso - (peso * 0.20)

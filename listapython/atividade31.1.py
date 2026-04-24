@@ -1,3 +1,4 @@
+##Um algoritmo que calcule dois cenários baseados no peso atual de uma pessoa:
 peso_atual = float(input("Digite o peso atual (kg): "))
 
 engordar = peso_atual * 1.15

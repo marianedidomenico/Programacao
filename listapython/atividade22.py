@@ -1,3 +1,4 @@
+##conversão de valores e soma acumulada.
 moeda1cent = int(input("Quantidade de moedas de 1 centavo: "))
 moeda5cent = int(input("Quantidade de moedas de 5 centavos: "))
 moeda10cent = int(input("Quantidade de moedas de 10 centavos: "))
